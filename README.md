@@ -114,7 +114,7 @@ Follow my GitHub journey, and if this helps you, give it a ⭐️
 
 
 ## 🧾 License
-This project is licensed under the MIT License – see the [LICENSE]() file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors/blob/main/LICENSE) file for details.
 
 ---
 
