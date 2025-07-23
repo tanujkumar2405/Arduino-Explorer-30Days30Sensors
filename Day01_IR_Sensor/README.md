@@ -224,7 +224,7 @@ If you have any questions, suggestions, or improvements, feel free to connect wi
 
 - 📧 Email: tanujkuamr2405@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/tanuj-kumar-cybersecurity
-- 📁 GitHub Issues: [Open an issue](https://github.com/tanujkumar2405/Day01_IR_Sensor/issues)
+- 📁 GitHub Issues: [Open an issue](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors/issues)
 
 I'm happy to help and open to collaboration!
 Feel free to open a new issue in the repo if you have questions or want to contribute!
