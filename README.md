@@ -65,11 +65,12 @@ Arduino-Explorer-30Days30Sensors/
 
 ## 📚 Table of Contents
 
-| Day | Sensor Name | Folder |
-|-----|-------------|--------|
-| 01  | IR Obstacle Avoidance Sensor | [Day01_IR_Sensor](./Day01_IR_Sensor) |
-| 02  | Coming Soon... | `To be uploaded` |
-| ...| ... | ... |
+| Day | Sensor Name                     | Folder                         |
+|-----|----------------------------------|--------------------------------|
+| 01  | IR Obstacle Avoidance Sensor    | [Day01_IR_Sensor](./Day01_IR_Sensor) |
+| 02  | LDR – Light Detection & Brightness Control | [Day02_LDR_Sensor](./Day02_LDR_Sensor) |
+| ... | ...                              | ...                            |
+
 
 ---
 
