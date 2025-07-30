@@ -3,7 +3,7 @@
 Welcome to **Day 1** of the "Arduino Explorer: 30 Days, 30 Sensors" challenge!  
 In this project, you'll learn how to use an **IR Obstacle Sensor** with the **Arduino Nano** to detect nearby objects.
 
----
+---  
 
 ## 📌 What You’ll Learn
 
