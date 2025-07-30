@@ -46,6 +46,8 @@ Each day’s folder (e.g., `Day01_IR_Sensor/`) contains:
 ```bash
 Arduino-Explorer-30Days30Sensors/
 │
+├── README.md
+|
 ├── Day01_IR_Sensor/
 │ ├── ir_sensor.ino
 │ ├── README.md
@@ -56,7 +58,27 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── Screenshot 1.png
 │ └── Screenshot 2.png
 │
-├── Day02_...
+├── Day02_LDR_Sensor/
+│ ├── ldr_sensor.ino
+│ ├── README.md
+│ ├── Code_Explanation.md
+│ ├── requirements.md
+│ ├── wiring_diagram.png
+│ ├── Schematic View.pdf
+│ ├── Screenshot 1.png
+│ └── Screenshot 2.png
+│
+├── Day03_DHT11_Sensor/
+│ ├── dht11_sensor.ino
+│ ├── README.md
+│ ├── Code_Explanation.md
+│ ├── requirements.md
+│ ├── wiring_diagram.png
+│ ├── Schematic View.pdf
+│ ├── Screenshot 1.png
+│ └── Screenshot 2.png
+│
+├── Day04_...
 ...
 └── LICENSE
 ```
@@ -65,11 +87,12 @@ Arduino-Explorer-30Days30Sensors/
 
 ## 📚 Table of Contents
 
-| Day | Sensor Name                     | Folder                         |
-|-----|----------------------------------|--------------------------------|
-| 01  | IR Obstacle Avoidance Sensor    | [Day01_IR_Sensor](./Day01_IR_Sensor) |
-| 02  | LDR – Light Detection & Brightness Control | [Day02_LDR_Sensor](./Day02_LDR_Sensor) |
-| ... | ...                              | ...                            |
+| Day | Sensor Name                                | Folder                                       |
+| --- | ------------------------------------------ | -------------------------------------------- |
+| 01  | IR Obstacle Avoidance Sensor               | [Day01\_IR\_Sensor](./Day01_IR_Sensor)       |
+| 02  | LDR – Light Detection & Brightness Control | [Day02\_LDR\_Sensor](./Day02_LDR_Sensor)     |
+| 03  | DHT11 – Temperature & Humidity Sensor      | [Day03\_DHT11\_Sensor](./Day03_DHT11_Sensor) |
+| ... | ...                                        | ...                                          |
 
 
 ---
@@ -81,7 +104,7 @@ Arduino-Explorer-30Days30Sensors/
    git clone https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors
 ```
 
-2. Open the .ino file inside Arduino IDE.
+2. Open the `.ino` file inside Arduino IDE.
 
 3. Select your board and port.
 
