@@ -47,7 +47,7 @@ Each day’s folder (e.g., `Day01_IR_Sensor/`) contains:
 Arduino-Explorer-30Days30Sensors/
 │
 ├── README.md
-|
+│
 ├── Day01_IR_Sensor/
 │ ├── ir_sensor.ino
 │ ├── README.md
@@ -55,8 +55,7 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── requirements.md
 │ ├── wiring_diagram.png
 │ ├── Schematic View.pdf
-│ ├── Screenshot 1.png
-│ └── Screenshot 2.png
+│ └── Screenshot 1.png
 │
 ├── Day02_LDR_Sensor/
 │ ├── ldr_sensor.ino
@@ -65,8 +64,7 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── requirements.md
 │ ├── wiring_diagram.png
 │ ├── Schematic View.pdf
-│ ├── Screenshot 1.png
-│ └── Screenshot 2.png
+│ └── Screenshot 1.png
 │
 ├── Day03_DHT11_Sensor/
 │ ├── dht11_sensor.ino
@@ -75,10 +73,19 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── requirements.md
 │ ├── wiring_diagram.png
 │ ├── Schematic View.pdf
-│ ├── Screenshot 1.png
-│ └── Screenshot 2.png
+│ └── Screenshot 1.png
 │
-├── Day04_...
+├── Day04_Ultrasonic_Sensor/
+│   ├── ultrasonic_sensor.ino
+│   ├── README.md
+│   ├── Code_Explanation.md
+│   ├── requirements.md
+│   ├── wiring_diagram.png
+│   ├── Schematic View.pdf
+│   ├── Screenshot 1.png
+│   └── Tinkercad_Simulation_Guide.md
+│
+├── Day05_...
 ...
 └── LICENSE
 ```
@@ -87,12 +94,13 @@ Arduino-Explorer-30Days30Sensors/
 
 ## 📚 Table of Contents
 
-| Day | Sensor Name                                | Folder                                       |
-| --- | ------------------------------------------ | -------------------------------------------- |
-| 01  | IR Obstacle Avoidance Sensor               | [Day01\_IR\_Sensor](./Day01_IR_Sensor)       |
-| 02  | LDR – Light Detection & Brightness Control | [Day02\_LDR\_Sensor](./Day02_LDR_Sensor)     |
-| 03  | DHT11 – Temperature & Humidity Sensor      | [Day03\_DHT11\_Sensor](./Day03_DHT11_Sensor) |
-| ... | ...                                        | ...                                          |
+| Day | Sensor Name                                | Folder                                                 |
+| --- | ------------------------------------------ | ------------------------------------------------------ |
+| 01  | IR Obstacle Avoidance Sensor               | [Day01\_IR\_Sensor](./Day01_IR_Sensor)                 |
+| 02  | LDR – Light Detection & Brightness Control | [Day02\_LDR\_Sensor](./Day02_LDR_Sensor)               |
+| 03  | DHT11 – Temperature & Humidity Sensor      | [Day03\_DHT11\_Sensor](./Day03_DHT11_Sensor)           |
+| 04  | HC-SR04 – Ultrasonic Distance Sensor       | [Day04\_Ultrasonic\_Sensor](./Day04_Ultrasonic_Sensor) |
+| ... | ...                                        | ...                                                    |
 
 
 ---
@@ -111,6 +119,18 @@ Arduino-Explorer-30Days30Sensors/
 4. Upload the code and connect the hardware.
 
 5.Watch the output (Serial Monitor or sensor response)!
+
+
+---
+
+## 🔍 Simulate Online (Optional)
+
+For supported sensors (e.g., Ultrasonic), you can simulate them on [Tinkercad Circuits](https://www.tinkercad.com/):
+
+- Refer to `Tinkercad_Simulation_Guide.md` inside each folder for step-by-step instructions.
+
+- No hardware needed—just drag & drop virtual components and run the simulation!
+
 
 
 ---
