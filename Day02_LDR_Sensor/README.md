@@ -196,6 +196,7 @@ void loop() {
 ├── Code_Explanation.md
 ├── Schematic View.pdf
 ├── wiring_diagram.png
+├── Tinkercad_Simulation_Guide.md
 └── Screenshot 1.png
 ```
 
