@@ -2,7 +2,7 @@
 
 This guide walks you through how to **simulate the IR Obstacle Sensor with Arduino Nano** using [Tinkercad Circuits](https://www.tinkercad.com/).  
 Perfect if you **don’t have physical hardware** or want to test before wiring in real life!
-
+  
 ---
 
 ## 🧰 What You’ll Need on Tinkercad
