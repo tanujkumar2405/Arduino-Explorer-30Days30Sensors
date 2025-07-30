@@ -105,6 +105,7 @@ Day01_IR_Sensor/
 ├── wiring_diagram.png       # ✅ Breadboard-style connection visual
 ├── Screenshot 1.png         # ✅ Image showing setup or serial output
 ├── Screenshot 2.png         # ✅ Optional extra image (e.g., object detection)
+├── Tinkercad_Simulation_Guide.md    # ✅ Virtual Simulation, Project without Hardware
 
 ```
 
@@ -123,6 +124,7 @@ Day01_IR_Sensor/
 | `Schematic View.pdf`                    | Use Fritzing or similar to generate a **schematic circuit diagram**. Export it as a PDF.                                                                    |
 | `wiring_diagram.png`                    | A **breadboard-style** image showing real component layout and wire connections.                                                                            |
 | `Screenshot 1.png` & `Screenshot 2.png` | Real setup images, serial monitor output, IR triggering — these make your repo visual and engaging.                                                         |
+| `Tinkercad_Simulation_Guide.md`         | Guide to simulate the Ultrasonic Sensor circuit on Tinkercad with wiring and code upload steps.                                                             |
 
 
 ---
