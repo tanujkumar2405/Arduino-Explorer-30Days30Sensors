@@ -29,6 +29,7 @@ Each day’s folder (e.g., `Day01_IR_Sensor/`) contains:
 | `Schematic View.pdf` | Electronic schematic |
 | `Screenshot 1.png` | Working screenshot |
 | `Screenshot 2.png` | Serial monitor / live output |
+| `Tinkercad_Simulation_Guide.md` | Simulation setup instructions |
 
 ---
 
@@ -55,7 +56,9 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── requirements.md
 │ ├── wiring_diagram.png
 │ ├── Schematic View.pdf
-│ └── Screenshot 1.png
+│ ├── Screenshot 1.png
+│ ├── Screenshot 2.png
+│ └── Tinkercad_Simulation_Guide.md
 │
 ├── Day02_LDR_Sensor/
 │ ├── ldr_sensor.ino
@@ -64,7 +67,8 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── requirements.md
 │ ├── wiring_diagram.png
 │ ├── Schematic View.pdf
-│ └── Screenshot 1.png
+│ ├── Screenshot 1.png
+│ └── Tinkercad_Simulation_Guide.md
 │
 ├── Day03_DHT11_Sensor/
 │ ├── dht11_sensor.ino
