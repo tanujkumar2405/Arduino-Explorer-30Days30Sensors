@@ -89,7 +89,18 @@ Arduino-Explorer-30Days30Sensors/
 │   ├── Screenshot 1.png
 │   └── Tinkercad_Simulation_Guide.md
 │
-├── Day05_...
+├── Day05_PIR_Motion_Sensor/
+│ ├── pir_motion_sensor.ino
+│ ├── README.md
+│ ├── Code_Explanation.md
+│ ├── requirements.md
+│ ├── wiring_diagram.png
+│ ├── Schematic View.pdf
+│ ├── Screenshot 1.png
+│ ├── Screenshot 2.png
+│ └── Tinkercad_Simulation_Guide.md
+│
+├── Day06_...
 ...
 └── LICENSE
 ```
@@ -104,6 +115,7 @@ Arduino-Explorer-30Days30Sensors/
 | 02  | LDR – Light Detection & Brightness Control | [Day02\_LDR\_Sensor](./Day02_LDR_Sensor)               |
 | 03  | DHT11 – Temperature & Humidity Sensor      | [Day03\_DHT11\_Sensor](./Day03_DHT11_Sensor)           |
 | 04  | HC-SR04 – Ultrasonic Distance Sensor       | [Day04\_Ultrasonic\_Sensor](./Day04_Ultrasonic_Sensor) |
+| 05  | HC-SR501 – PIR Motion Sensor               | [Day05\_PIR\_Motion\_Sensor](./Day05_PIR_Motion_Sensor) |
 | ... | ...                                        | ...                                                    |
 
 
