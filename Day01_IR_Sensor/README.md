@@ -194,11 +194,17 @@ Day01_IR_Sensor/
 
 If you enjoyed this, give it a ⭐ on GitHub and connect with me!
 
-    GitHub: @[tanujkumar2405](https://github.com/tanujkumar2405)
+  > GitHub: @[tanujkumar2405](https://github.com/tanujkumar2405)
 
-    LinkedIn: @[tanuj-kumar-cybersecurity](https://www.linkedin.com/in/tanuj-kumar-cybersecurity)
+  > LinkedIn: @[tanuj-kumar-cybersecurity](https://www.linkedin.com/in/tanuj-kumar-cybersecurity)
 
-    📬 Want the full 30 Days Guide? Ask in Discussions or DM me!
+📬 Want the full 30 Days Guide? Ask in [Discussions](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors/discussions) or DM me!
+
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors/blob/main/LICENSE). Feel free to use, modify, and share with attribution.
 
 
 ---
@@ -208,6 +214,14 @@ If you enjoyed this, give it a ⭐ on GitHub and connect with me!
 
 if you didn't have proper hardware tools and setup you can also use [Tinkercad](https://tinkercad.com) 
 
+
+---
+
+## 💬 Author
+
+**Tanuj Kumar**  
+A passionate CSE (Cybersecurity) student & Arduino enthusiast  
+📅 Part of the [30 Days, 30 Sensors](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors) GitHub series
 
 ---
 
