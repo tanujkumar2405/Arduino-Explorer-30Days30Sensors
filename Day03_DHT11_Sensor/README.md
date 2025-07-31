@@ -16,15 +16,17 @@ This project is ideal for beginners looking to understand environmental monitori
 
 ## 📁 Folder Structure
 
-Day_3_DHT11/
-│
-├── DHT11_sensor.ino
-├── Code_Explanation.md
-├── Wiring_Diagram.png
-├── requirements.md
-├── Docs
-├── 
-└── README.md ← (You are here)
+```
+├── Day03_DHT11_Sensor/
+│ ├── DHT11_sensor.ino
+│ ├── README.md      ← (You are here)
+│ ├── Code_Explanation.md
+│ ├── requirements.md
+│ ├── wiring_diagram.png
+│ ├── Schematic View.pdf
+│ ├── Screenshot 1.png
+│ └── Tinkercad_Simulation_Guide.md
+```
 
 
 ---
@@ -65,7 +67,7 @@ By the end of this project, you will understand:
 
 📌 *Make sure the flat side of the DHT11 faces you when wiring.*
 
-📷 *Refer to the `Fritzing_Diagram.png` and `Wiring_Diagram.png` for visual connection.*
+📷 *Refer to the `Schematic View.pdf` and `Wiring_Diagram.png` for visual connection.*
 
 ---
 
@@ -132,6 +134,23 @@ Topics covered:
 
 ---
 
+## 🖼 Visual Guide:
+
+You can view the complete circuit diagram in the file:
+📄 `Schematic_View.pdf`
+
+Or, if you're using an online simulator, refer to:
+📄 `Tinkercad_Simulation_Guide.md`
+
+---
+
+## 🧪 Simulation
+
+If you don't have the hardware, you can simulate this project online using Tinkercad.  
+Check out `Tinkercad_Simulation_Guide.md` for a complete step-by-step guide.
+
+---
+
 ## 🧑‍🎓 Next Steps
 
 - Try displaying values on an LCD (16x2) or OLED display
@@ -150,7 +169,7 @@ A passionate CSE (Cybersecurity) student & Arduino enthusiast
 
 ## 📄 License
 
-This project is open-sourced under the [MIT License](LICENSE).
+This project is open-sourced under the [MIT License](https://github.com/tanujkumar2405/Arduino-Explorer-30Days30Sensors/blob/main/LICENSE).
 
 ---
 
