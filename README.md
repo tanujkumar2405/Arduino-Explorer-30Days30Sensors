@@ -100,7 +100,19 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── Screenshot 2.png
 │ └── Tinkercad_Simulation_Guide.md
 │
-├── Day06_...
+├──Day06_Sound_Sensor/  
+│ ├── sound_sensor.ino   
+│ ├── Code_Explanation.md    
+│ ├── requirements.md   
+│ ├── READEME.md    
+│ ├── wiring_diagram.png    
+│ ├── Schematic View.pdf  
+│ ├── Screenshot 1.png  
+│ ├── Screenshot 2.png  
+│ ├── connection_info.md   
+│ └── Tinkercad_Simulation_Guide.md     
+│ 
+├── Day07_...
 ...
 └── LICENSE
 ```
@@ -116,6 +128,7 @@ Arduino-Explorer-30Days30Sensors/
 | 03  | DHT11 – Temperature & Humidity Sensor      | [Day03\_DHT11\_Sensor](./Day03_DHT11_Sensor)           |
 | 04  | HC-SR04 – Ultrasonic Distance Sensor       | [Day04\_Ultrasonic\_Sensor](./Day04_Ultrasonic_Sensor) |
 | 05  | HC-SR501 – PIR Motion Sensor               | [Day05\_PIR\_Motion\_Sensor](./Day05_PIR_Motion_Sensor) |
+| 06  | KY-008 – Sound Sensor                      | [Day06\_Sound\_Sensor](./Day06_Sound_Sensor)           |
 | ... | ...                                        | ...                                                    |
 
 
