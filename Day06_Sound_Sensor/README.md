@@ -12,7 +12,7 @@ Day06_Sound_Sensor/
 ├── sound_sensor.ino  # Arduino code  
 ├── Code_Explanation.md  # Line-by-line code walkthrough  
 ├── requirements.md  # Hardware & software needed  
-├── READEME.md  # (You are here)
+├── READEME.md  # (You are here)  
 ├── wiring_diagram.png  # Visual pin connections  
 ├── Schematic View.pdf  # Full schematic circuit  
 ├── Screenshot 1.png  # Tinkercad simulation snap  
