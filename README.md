@@ -111,8 +111,20 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── Screenshot 2.png  
 │ ├── connection_info.md   
 │ └── Tinkercad_Simulation_Guide.md     
-│ 
-├── Day07_...
+│
+├──Day07_Gas_Sensor_MQ2/    
+│ ├── gas_sensor_mq2.ino    
+│ ├── Code_Explanation.md  
+│ ├── connection_info.md   
+│ ├── requirements.md  
+│ ├── Tinkercad_Simulation_Guide.md  
+│ ├── wiring_diagram.png  
+│ ├── Schematic View.pdf  
+│ ├── Screenshot 1.png  
+│ ├── Screenshot 2.png  
+│ └── README.md  
+│
+├── Day08_...
 ...
 └── LICENSE
 ```
@@ -129,6 +141,7 @@ Arduino-Explorer-30Days30Sensors/
 | 04  | HC-SR04 – Ultrasonic Distance Sensor       | [Day04\_Ultrasonic\_Sensor](./Day04_Ultrasonic_Sensor) |
 | 05  | HC-SR501 – PIR Motion Sensor               | [Day05\_PIR\_Motion\_Sensor](./Day05_PIR_Motion_Sensor) |
 | 06  | KY-008 – Sound Sensor                      | [Day06\_Sound\_Sensor](./Day06_Sound_Sensor)           |
+| 07  | MQ2 – Gas Sensor                      | [Day07\_Gas\_Sensor\_MQ2](./Day07_Gas_Sensor_MQ2)           |
 | ... | ...                                        | ...                                                    |
 
 
