@@ -33,7 +33,7 @@ In this project, we’ll use a **Tilt Sensor** to detect orientation changes and
 
 ## 🖼 Schematic Diagram
 
-📎 See [`Schematic View.pdf`]()  
+📎 See [`Schematic View.pdf`](./Schematic View.pdf)  
 💡 Built using Fritzing for clarity and understanding.  
 
 ---
@@ -51,7 +51,7 @@ In this project, we’ll use a **Tilt Sensor** to detect orientation changes and
 
 <br>  
 
-📎 See: [`wiring_diagram.png`]()  
+📎 See: [`wiring_diagram.png`](./wiring_diagram.png)  
 
 ---
 
@@ -189,3 +189,4 @@ You are free to use, modify, and distribute with attribution.
 <br>  
 
 ---
+
