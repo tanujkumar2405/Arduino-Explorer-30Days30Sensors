@@ -124,7 +124,19 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── Screenshot 2.png  
 │ └── README.md  
 │
-├── Day08_...
+├──Day08_Tilt_Sensor/    
+│ ├── tilt_sensor.ino    
+│ ├── Code_Explanation.md  
+│ ├── connection_info.md   
+│ ├── requirements.md  
+│ ├── Tinkercad_Simulation_Guide.md  
+│ ├── wiring_diagram.png  
+│ ├── Schematic View.pdf  
+│ ├── Screenshot 1.png  
+│ ├── Screenshot 2.png  
+│ └── README.md
+│
+├── Day09_...
 ...
 └── LICENSE
 ```
@@ -142,6 +154,7 @@ Arduino-Explorer-30Days30Sensors/
 | 05  | HC-SR501 – PIR Motion Sensor               | [Day05\_PIR\_Motion\_Sensor](./Day05_PIR_Motion_Sensor) |
 | 06  | KY-008 – Sound Sensor                      | [Day06\_Sound\_Sensor](./Day06_Sound_Sensor)           |
 | 07  | MQ2 – Gas Sensor                      | [Day07\_Gas\_Sensor\_MQ2](./Day07_Gas_Sensor_MQ2)           |
+| 08  | Tilt Sensor              | [Day08\_Tilt\_Sensor](./Day08_Tilt_Sensor)           |
 | ... | ...                                        | ...                                                    |
 
 
