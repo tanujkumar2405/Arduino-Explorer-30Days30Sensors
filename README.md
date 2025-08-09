@@ -134,9 +134,22 @@ Arduino-Explorer-30Days30Sensors/
 │ ├── Schematic View.pdf  
 │ ├── Screenshot 1.png  
 │ ├── Screenshot 2.png  
+│ └── README.md  
+│
+├──Day09_Soil_Moisture_Sensor/    
+│ ├── soil_moisture_sensor.ino    
+│ ├── Code_Explanation.md  
+│ ├── connection_info.md   
+│ ├── requirements.md  
+│ ├── Tinkercad_Simulation_Guide.md  
+│ ├── wiring_diagram.png  
+│ ├── Schematic View.pdf  
+│ ├── Screenshot 1.png  
+│ ├── Screenshot 2.png
+│ ├── LU-5-R SPDT Relay.png   
 │ └── README.md
 │
-├── Day09_...
+├── Day10_...
 ...
 └── LICENSE
 ```
@@ -155,6 +168,7 @@ Arduino-Explorer-30Days30Sensors/
 | 06  | KY-008 – Sound Sensor                      | [Day06\_Sound\_Sensor](./Day06_Sound_Sensor)           |
 | 07  | MQ2 – Gas Sensor                      | [Day07\_Gas\_Sensor\_MQ2](./Day07_Gas_Sensor_MQ2)           |
 | 08  | Tilt Sensor              | [Day08\_Tilt\_Sensor](./Day08_Tilt_Sensor)           |
+| 09  | Soil Moisture Sensor           | [Day09\_Soil\_Moisture\_Sensor](./Day09_Soil_Moisture_Sensor)           |
 | ... | ...                                        | ...                                                    |
 
 
